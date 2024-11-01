@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <>
-      <div className="flex justify-between lg:justify-around items-center w-full fixed px-8 lg:px-2 py-6 top-0 left-0 z-50 shadow-lg">
+      <div className="flex justify-between lg:justify-around items-center w-full fixed px-8 bg-[#ffff] lg:px-2 py-6 top-0 left-0 z-50 shadow-lg">
         <div className="flex items-center gap-2 lg:gap-4">
           <img
             className="w-10 lg:w-12"
