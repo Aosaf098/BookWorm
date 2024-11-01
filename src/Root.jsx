@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Banner from "./components/Banner"
 import Books from "./components/Books"
+import Footer from "./components/Footer"
 
 const Root = () => {
   return (
@@ -9,6 +10,7 @@ const Root = () => {
         <Navbar />
         <Banner />
         <Books />
+        <Footer />
      </div>
     </>
   )
